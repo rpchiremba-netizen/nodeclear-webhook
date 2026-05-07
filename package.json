@@ -6,6 +6,8 @@
     "start": "node webhook.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.9",
+    "pg": "^8.11.3"
   }
 }
